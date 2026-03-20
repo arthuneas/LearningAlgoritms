@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00599C&height=150&section=header&text=LearningAlgoritms&fontSize=40&fontColor=ffffff" alt="Banner LearningAlgoritms" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&pause=1000&color=00599C&center=true&vCenter=true&width=800&height=150&lines=LearningAlgoritms;Algoritmos+em+C;printf(%22Hello+World!%22);" alt="Typing Banner">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge" alt="Linguagem C">
+  <img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Linguagem C">
   <img src="https://img.shields.io/badge/GCC-F34B7D?style=for-the-badge&logo=gnu&logoColor=white" alt="Compilador GCC">
   <img src="https://img.shields.io/badge/UnB-005128?style=for-the-badge" alt="Universidade de Brasília">
 </div>
